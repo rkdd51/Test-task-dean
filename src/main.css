@@ -1,0 +1,56 @@
+.steps {
+  font-size: 16px;
+  color: grey;
+  /* font-family: Open Sans; */
+  font-weight: 600;
+}
+.STEPS {
+  color: #000;
+}
+
+.create1 {
+  font-family: Open Sans;
+  font-weight: 600;
+  color: #000;
+  background-color: #c5dcfa;
+  font-size: 21px;
+}
+.para {
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 16;
+  color: #000;
+}
+.avatar {
+  font-family: Open Sans;
+  font-weight: bold;
+  font-size: 16;
+  color: #000;
+  margin-left: 10px;
+}
+
+.input {
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 16;
+  color: black;
+  height: 20px;
+  border-radius: 8px;
+  border-color: #c7c7c7;
+  box-shadow: 10px;
+  box-sizing: border-box;
+}
+
+.button {
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 16;
+  color: #0a3977;
+  background-color: #c5dcfa;
+  height: 35px;
+  width: 150px;
+  border-radius: 8px;
+  box-shadow: white;
+  margin-left: 300px;
+  border-color: white;
+}
